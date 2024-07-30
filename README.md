@@ -5,3 +5,6 @@ Hand Gesture Counter is designed to recognize and count the number of fingers he
 - Real-time hand detection and tracking
 - Finger counting using hand landmarks
 - Visual feedback with overlaid hand landmarks and finger count
+## Project Working
+
+![](paint.jpg)
