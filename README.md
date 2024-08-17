@@ -8,3 +8,4 @@ Hand Gesture Counter is designed to recognize and count the number of fingers he
 ## Project Working
    
 <img src="working.jpg" width="350" height="300">   
+ 
